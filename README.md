@@ -6,7 +6,7 @@
 
 Vouch es una plataforma de escritura con **trazabilidad del proceso**: registra, reproduce y analiza cómo se crea un documento, para respaldar la autoría con **evidencia** y no con suposiciones.
 
-[🌐 Sitio web: docvouch.com](https://docvouch.com) · [🚀 Probar la demo](https://vouch-swart.vercel.app/) · [👤 Autor](https://github.com/Jona404p)
+[🌐 Sitio web: docvouch.com](https://docvouch.com) · [👤 Autor](https://github.com/Jona404p)
 
 ![React](https://img.shields.io/badge/Frontend-React-61DAFB?logo=react&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Backend-Supabase-3ECF8E?logo=supabase&logoColor=white)
